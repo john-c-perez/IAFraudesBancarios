@@ -1,6 +1,7 @@
 # IAFraudesBancarios
-Hola, esta es un prototipo  de modelo de deep learning con CGAN para deteccion de fraudes bancarios hecho con tensorflow
-para importar abre requirements.txt incluye librerias y la linea que debes ejecutar
+Hola, esta es un prototipo  de modelo de deep learning con CGAN para deteccion de fraudes bancarios hecho con tensorflow.
+
+para importar libreiras abre requirements.txt incluye librerias y la linea que debes ejecutar.
 si no quieres instalarlas globalmente en tu dispositivo puedes crear un Entorno virtual
 crea dentro de donde esta tu proyecto un ambiente virtual y aqui ejecuta
 
