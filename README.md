@@ -14,7 +14,8 @@ Abre el terminal en VSCode:
 
 Ve a Terminal > New Terminal en el menú superior.
 Ejecuta el comando pip list:
-pip list --format=columns
+pip list --format=columns o
+pip list unicamente.
 
 Verifica la ruta de python: Para asegurarte de que no estás en un entorno virtual, puedes ejecutar:
 which python
